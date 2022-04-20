@@ -1,0 +1,86 @@
+body {		
+	padding: 0px;
+	margin:0px;
+	background: #000!important;
+	color: 	#03A062!important;
+}
+
+h1 {
+	font-family: 'Helvetica neue', 'Helvetica', 'Arial', sans-serif;
+	font-size: 48px;
+	font-weight: 300;
+	color: #999;
+	text-align: center;
+}
+
+#notSupported {
+	display: none;
+}
+
+#notSupported h1 {
+	color: #b41a1a;
+	margin-bottom: 20px;
+}
+
+#notSupported img {
+	display: block;
+	margin: 0 auto;
+}
+
+#ascii {
+	font-family: 'Courier New', 'Courier', monospace;
+	font-size: 29px;
+	line-height: 26.2px;
+	letter-spacing: -1.5px;
+	text-align: center;
+	color: white;	/*#03A062;*/
+
+}
+
+.sh_1 { color:#362800; }
+.sh_2 { color:#362800; }
+.sh_3 { color:#362800; }
+.sh_4 { color:#362800; }
+.sh_5 { color:#362800; }
+.sh_6 { color:#362800; }
+.sh_7 { color:#362800; }
+.sh_8 { color:#362800; }
+.sh_9 { color:#7a5a00; }
+.sh_10 { color:#c49000; }
+.sh_11 { color:#ffbb00; }
+.sh_12 { color:#ffcf4a; }
+.sh_13 { color:white; }
+.sh_14 { color:#ffcf4a; }
+.sh_15 { color:white; }
+
+#snap {
+	font-family: 'Courier New', 'Courier', monospace;
+	font-size: 12px;
+	line-height: 10px;
+	letter-spacing: -1.5px;
+	text-align: center;
+}
+
+#changecolor {
+	
+	margin: 20px auto;
+	padding: 10px 20px;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 18px;
+}
+#download {
+	
+	margin: 20px auto;
+	padding: 10px 20px;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 18px;
+}
+
+
+#pause {
+	display: none;
+	margin: 20px auto;
+	padding: 10px 20px;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 18px;
+}
